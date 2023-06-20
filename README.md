@@ -1,9 +1,9 @@
 # Hello, I`m Andrews 👋
 ## Welcome to my GitHub profile!
 
-### I`m live in São Paulo - Brazil and I`m study Software Engineer.
+I'm live in São Paulo - Brazil and I'm study Software Engineer.
 
-The tecnologies who I know:
+The tecnologies who I know: <\br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/>
           
           
