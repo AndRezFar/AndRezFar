@@ -3,7 +3,7 @@
 * #### ✏️ I'm Studing Software Engineer;
 * #### 🌎 Live in Brazil.
 * #### 🔍 You can find me in:
-    >* [Email](andrewsrezende@gmail.com);
+    >* [Email](malito::andrewsrezende@gmail.com);
     >* [Linkedin](https://www.linkedin.com/in/andrews-farias/);
     >* [Instagram](https://www.instagram.com/andy.rezende/);
     >* [Twitter](https://twitter.com/AndrewsRezende5).
