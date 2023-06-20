@@ -1,11 +1,16 @@
-# Hello, I`m Andrews 👋
-## Welcome to my GitHub profile!
+# 👋 Hi, Welcome to my GitHub profile! <br> I`m Andrews Farias 
 
-### I'm live in São Paulo - Brazil and I'm study Software Engineer.
+* #### ✏️ I'm Studing Software Engineer;
+* #### 🌎 Live in Brazil.
+* #### 🔍 You can find me in:
+    >* [Email](andrewsrezende@gmail.com);
+    >* [Linkedin](https://www.linkedin.com/in/andrews-farias/);
+    >* [Instagram](https://www.instagram.com/andy.rezende/);
+    >* [Twitter](https://twitter.com/AndrewsRezende5).
 
-### The tecnologies who I know:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/>
-          
+#### **|** My Skills 👨‍💻:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
+
 <div>
           <a href="https://github.com/AndRezFar">
           <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndRezFar&layout=compact&langs_count=7&theme=dracula"/>
@@ -13,19 +18,7 @@
 </div>          
           
 <!--
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" />
 
-**AndRezFar/AndRezFar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 -->
